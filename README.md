@@ -31,6 +31,7 @@ Data Security and Sharing:
 
 Ensure the security of sensitive HR data by implementing appropriate access controls and user permissions within Power BI.
 Enable sharing and collaboration features to allow stakeholders to access and interact with the HR Analytics Dashboard.
+
 Project Owner: Nikhil Pandya
 
 By completing this HR Analytics Dashboard project, Nikhil Pandya will have a comprehensive tool that provides actionable insights into the organization's HR data. The project will enable better decision-making, identify trends, and support strategic workforce planning efforts.
